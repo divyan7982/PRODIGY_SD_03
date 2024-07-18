@@ -24,13 +24,13 @@ This is a Contact Management System developed in c++ as part of my internship at
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/your-username/contact-management-system.git
+    git clone https://github.com/divyan7982/PRODIGY_SD_03.git
     ```
 
 2. **Navigate to the Project Directory:**
 
     ```bash
-    cd contact-management-system
+    cd PRODIGY_SD_03
     ```
 
 ### Running the Program
